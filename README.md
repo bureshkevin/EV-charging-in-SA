@@ -1,1 +1,2 @@
-This is the readme file of the repository for my thesis.
+#Masters
+For this thesis, there are two separate jupyter notebooks with the written code.
