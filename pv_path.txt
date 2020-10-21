@@ -1,7 +1,0 @@
-format: ZA, default, most_recent; NZ, default, most_recent 
-ZA
-../data/energy/pv_02-06-2020.csv
-../data/energy/none
-NZ
-../data/NZ/pv_05-05-2020.csv
-../data/NZ/none
